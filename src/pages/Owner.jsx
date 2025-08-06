@@ -10,7 +10,7 @@ function Owner() {
 
       <h3 className="text-xl font-semibold mb-2">My Biography</h3>
       <p className="max-w-xl text-center leading-relaxed">
-        I am a Junior Software Developer at Generation Thailand. This field is challenging, but I believe in the power of continuous learning and consistent self-development. I strive to improve every day, hoping to one day be skilled enough to build innovative technology that makes a positive impact on Thailand and the world.
+        "The expert in anything was once a beginner." This quote truly resonates with me as I embark on my journey as a Junior Software Developer at Generation Thailand. I believe that every challenge is an opportunity to grow, and that every line of code brings me one step closer to my goal. My ultimate commitment is to build the skills needed to create meaningful and impactful technology that can change the world for the better.
       </p>
     </div>
   );

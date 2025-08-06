@@ -1,8 +1,8 @@
 
 function UserSection() {
   const users = [
-    { name: 'John', lastName: 'Doe', position: 'Developer' },
-    { name: 'Jane', lastName: 'Smith', position: 'Designer' },
+    { name: 'Meow', lastName: 'Whiskers', position: 'CEO of Naps' },
+    { name: 'Kitty', lastName: 'Purr', position: 'Food Taster' },
   ];
 
   return (
