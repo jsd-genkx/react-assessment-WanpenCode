@@ -2,7 +2,7 @@
 function UserSection() {
   const users = [
     { name: 'Meow', lastName: 'Whiskers', position: 'CEO of Naps' },
-    { name: 'Kitty', lastName: 'Purr', position: 'Food Taster' },
+    { name: 'Kitty', lastName: 'Purr Purr', position: 'Food Taster' },
   ];
 
   return (
